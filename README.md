@@ -1,5 +1,5 @@
 # WeatherPlot
-A program that can plot rain predictions using matplotlib and open-meteo.
+A Jupyter Notebook that can plot rain predictions using matplotlib and open-meteo.
 
 <img src="https://github.com/hamdivazim/WeatherPlot/raw/main/screenshot.png">
 
@@ -25,3 +25,6 @@ Using https://open-meteo.com, this notebook gets hourly rain prediction data and
 
 ## Contributions?
 Maybe you could open a pull request and add more graphs?
+
+## License
+WeatherPlot is licensed by Hamd Waseem under [the Apache License 2.0](https://github.com/hamdivazim/WeatherPlot/blob/main/LICENSE).
