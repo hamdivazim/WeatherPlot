@@ -1,7 +1,7 @@
 # WeatherPlot
 A program that can plot rain predictions using matplotlib and open-meteo.
 
-<img src="https://raw.githubusercontent.com/hamdivazim/WeatherPlot/main/screenshot.png">
+<img src="https://github.com/hamdivazim/WeatherPlot/raw/main/screenshot.png">
 
 ## Prerequsites
 You will need:
