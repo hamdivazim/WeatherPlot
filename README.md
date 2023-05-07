@@ -15,7 +15,7 @@ You will need:
 These are all in `requirements.txt`.
 
 ## How to run
-Simply run all cells. There will be an input prompt asking for which city you want rain prediction data for, then at the bottom of the notebook it will generate 2 line graphs, one for predicted amount of rainfall (mm) and one for rain probability (%) for the whole day. The already generated graphs are generate with this geodata:
+Simply run all cells. There will be an input prompt asking for which city you want rain prediction data for, then at the bottom of the notebook it will generate 2 line graphs, one for predicted amount of rainfall (mm) and one for rain probability (%) for the whole day. The already generated graphs were made with this geodata:
 ```
 [["2023-05-06T00:00 to 2023-05-06T23:00"], ["latitude": 51.5, "longitude": -0.120000124], ["London"]]
 ```
