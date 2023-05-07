@@ -3,7 +3,7 @@ A Jupyter Notebook that can plot rain predictions using matplotlib and open-mete
 
 <img src="https://github.com/hamdivazim/WeatherPlot/raw/main/screenshot.png">
 
-## Prerequsites
+## Prerequisites
 You will need:
 * `geopy`
 * `requests`
